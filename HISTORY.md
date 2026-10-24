@@ -1,0 +1,9 @@
+# Techu Machi: post history
+
+| Date | Slot | Topic | Hashtags | Sources |
+|---|---|---|---|---|
+| 2026-10-23 | 22:35 | iPhone Duo India sale and prices (Tamil) | #iphoneduo #foldablephone #technewstamil #tamiltech #techumachi | Business Today |
+| 2026-10-24 | 13:00 | Phone myths vs facts: overnight charging, closing apps, megapixels, incognito (Tamil) | #techtips #phonetips #techmyths #tamiltech #techumachi | general knowledge |
+| 2026-10-24 | 19:00 | OPPO Find X10 / X10 Pro Max India prices (Tamil) | #oppofindx10 #200mp #technewstamil #tamiltech #techumachi | Smartprix, GSMArena |
+| 2026-10-25 | 13:00 | 5 settings to save battery: dark mode, timeout, adaptive brightness, location, battery saver | #techtips #smartphone #android #iphone #technology | general knowledge |
+| 2026-10-25 | 19:00 | iPhone Duo vs OPPO Find X10 Pro Max comparison | #iphone #oppo #smartphone #tech #technology | Business Today, Smartprix |
