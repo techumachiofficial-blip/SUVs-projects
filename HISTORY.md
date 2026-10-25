@@ -7,3 +7,5 @@
 | 2026-10-24 | 19:00 | OPPO Find X10 / X10 Pro Max India prices (Tamil) | #oppofindx10 #200mp #technewstamil #tamiltech #techumachi | Smartprix, GSMArena |
 | 2026-10-25 | 13:00 | 5 settings to save battery: dark mode, timeout, adaptive brightness, location, battery saver | #techtips #smartphone #android #iphone #technology | general knowledge |
 | 2026-10-25 | 19:00 | iPhone Duo vs OPPO Find X10 Pro Max comparison | #iphone #oppo #smartphone #tech #technology | Business Today, Smartprix |
+| 2026-10-26 | 13:00 | AI tool of the week: Google NotebookLM (sources, cited answers, Audio Overviews, mind maps/flashcards) | #ai #artificialintelligence #google #technology #techtips | Google Blog, superlore.ai |
+| 2026-10-26 | 19:00 | Apple "Pro and Tell" event Oct 28 (10:30 PM IST, LA); expected OLED touchscreen MacBook Pro, iPad mini, M6 iMac | #apple #macbook #ipad #technology #tech | 9to5Mac, MacRumors |
